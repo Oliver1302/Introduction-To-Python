@@ -1,0 +1,8 @@
+###Task 1 (Uno)
+from the dataset TestDataset1 carry create a python code that will return a dictionary
+that will look like so {Label:[00468,002782,00829...], Amount:[2985,2239,2892,...],Num Deliveries:[179,292,22,..]}
+
+
+### Task 2 (Dos) 
+Create a program that returns the output
+{{'00489':[2985,179],....'00909':[7729,67]},...}
